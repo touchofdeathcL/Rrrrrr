@@ -1,6 +1,6 @@
 {
   "Keys": {
-    "test_borrar": {
+    "me": {
       "Key": "tk_test1234567890abcdef1234567890ab",
       "Plan": "lifetime",
       "Active": true,
