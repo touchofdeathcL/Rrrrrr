@@ -1,12 +1,5 @@
 {
     "Keys":  {
-                 "gato":  {
-                              "Key":  "tk_91a86f80d5d8465eaa3e5f4d991ec4f0",
-                              "Plan":  "lifetime",
-                              "Active":  true,
-                              "ExpiresAt":  null,
-                              "TikTokUser":  "kemacral"
-                          },
                  "me":  {
                             "Plan":  "lifetime",
                             "Key":  "tk_test1234567890abcdef1234567890ab",
@@ -20,20 +13,6 @@
                             "Active":  true,
                             "ExpiresAt":  null,
                             "Note":  "streamer X"
-                        },
-                 "luenchow":  {
-                                  "Plan":  "lifetime",
-                                  "Key":  "tk_5fd4758cfc094d9c93d3b13a62279633",
-                                  "Active":  true,
-                                  "ExpiresAt":  null,
-                                  "TikTokUser":  "luenchow"
-                              },
-                 "REYES":  {
-                               "Plan":  "lifetime",
-                               "Key":  "tk_6628ca0aa8404920884a874328fbd984",
-                               "Active":  true,
-                               "ExpiresAt":  null,
-                               "TikTokUser":  "reyes.agustin85"
-                           }
+                        }
              }
 }
