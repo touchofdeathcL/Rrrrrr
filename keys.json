@@ -13,6 +13,12 @@
                             "Active":  true,
                             "ExpiresAt":  null,
                             "Note":  "streamer X"
-                        }
+                        },
+                 "alextest":  {
+                                  "Key":  "tk_c109fe25da7e4a889a1786ed4f7cbe21",
+                                  "Plan":  "lifetime",
+                                  "Active":  true,
+                                  "ExpiresAt":  null
+                              }
              }
 }
