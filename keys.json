@@ -15,11 +15,18 @@
                             "Note":  "streamer X"
                         },
                  "luenchow":  {
-                                  "Key":  "tk_5fd4758cfc094d9c93d3b13a62279633",
                                   "Plan":  "lifetime",
+                                  "Key":  "tk_5fd4758cfc094d9c93d3b13a62279633",
                                   "Active":  true,
                                   "ExpiresAt":  null,
                                   "TikTokUser":  "luenchow"
-                              }
+                              },
+                 "REYES":  {
+                               "Key":  "tk_6628ca0aa8404920884a874328fbd984",
+                               "Plan":  "lifetime",
+                               "Active":  true,
+                               "ExpiresAt":  null,
+                               "TikTokUser":  "reyes.agustin85"
+                           }
              }
 }
