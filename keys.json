@@ -13,6 +13,12 @@
                             "Active":  true,
                             "ExpiresAt":  null,
                             "Note":  "streamer X"
-                        }
+                        },
+                 "demo_streamer":  {
+                                       "Key":  "tk_267ee7174a674f3c93c451a48fbbeb3b",
+                                       "Plan":  "lifetime",
+                                       "Active":  true,
+                                       "ExpiresAt":  null
+                                   }
              }
 }
