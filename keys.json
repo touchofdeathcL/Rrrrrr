@@ -13,13 +13,6 @@
                             "Active":  true,
                             "ExpiresAt":  null,
                             "Note":  "streamer X"
-                        },
-                 "reyes":  {
-                               "Key":  "tk_9e3cda3bf2cb49ddb56e0b4b7db302c6",
-                               "Plan":  "lifetime",
-                               "Active":  true,
-                               "ExpiresAt":  null,
-                               "TikTokUser":  "reyes.agustin85"
-                           }
+                        }
              }
 }
