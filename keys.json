@@ -13,12 +13,6 @@
                             "Active":  true,
                             "ExpiresAt":  null,
                             "Note":  "streamer X"
-                        },
-                 "test_auto_001":  {
-                                       "Key":  "tk_89029256aa694a33a18783b86ec925ba",
-                                       "Plan":  "lifetime",
-                                       "Active":  true,
-                                       "ExpiresAt":  null
-                                   }
+                        }
              }
 }
