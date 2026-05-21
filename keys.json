@@ -13,6 +13,13 @@
                             "Active":  true,
                             "ExpiresAt":  null,
                             "Note":  "streamer X"
-                        }
+                        },
+                 "decki":  {
+                               "Key":  "tk_6433b8d9d3154e219c91b7321858f0a2",
+                               "Plan":  "lifetime",
+                               "Active":  true,
+                               "ExpiresAt":  null,
+                               "TikTokUser":  "deckicraft"
+                           }
              }
 }
