@@ -1,18 +1,24 @@
 {
-  "Keys": {
-    "me": {
-      "Key": "tk_test1234567890abcdef1234567890ab",
-      "Plan": "lifetime",
-      "Active": true,
-      "ExpiresAt": null,
-      "Note": "key de prueba inicial"
-    },
-    "Dr": {
-      "Key": "tk_a8f7c2d9e1b4f6a3c8e5d7b1a4f8e2c9",
-      "Plan": "lifetime",
-      "Active": true,
-      "ExpiresAt": null,
-      "Note": "streamer X"
-    }
-  }
+    "Keys":  {
+                 "me":  {
+                            "Plan":  "lifetime",
+                            "Key":  "tk_test1234567890abcdef1234567890ab",
+                            "Active":  true,
+                            "ExpiresAt":  null,
+                            "Note":  "key de prueba inicial"
+                        },
+                 "Dr":  {
+                            "Plan":  "lifetime",
+                            "Key":  "tk_a8f7c2d9e1b4f6a3c8e5d7b1a4f8e2c9",
+                            "Active":  true,
+                            "ExpiresAt":  null,
+                            "Note":  "streamer X"
+                        },
+                 "test_auto_001":  {
+                                       "Key":  "tk_89029256aa694a33a18783b86ec925ba",
+                                       "Plan":  "lifetime",
+                                       "Active":  true,
+                                       "ExpiresAt":  null
+                                   }
+             }
 }
