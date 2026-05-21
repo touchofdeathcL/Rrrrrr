@@ -13,12 +13,6 @@
                             "Active":  true,
                             "ExpiresAt":  null,
                             "Note":  "streamer X"
-                        },
-                 "alex":  {
-                              "Key":  "tk_1eb48749881d4612b29de3b7fcdd1a9f",
-                              "Plan":  "lifetime",
-                              "Active":  true,
-                              "ExpiresAt":  null
-                          }
+                        }
              }
 }
