@@ -13,6 +13,13 @@
                             "Active":  true,
                             "ExpiresAt":  null,
                             "Note":  "streamer X"
-                        }
+                        },
+                 "luenchow":  {
+                                  "Key":  "tk_5fd4758cfc094d9c93d3b13a62279633",
+                                  "Plan":  "lifetime",
+                                  "Active":  true,
+                                  "ExpiresAt":  null,
+                                  "TikTokUser":  "luenchow"
+                              }
              }
 }
