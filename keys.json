@@ -13,6 +13,13 @@
                             "Active":  true,
                             "ExpiresAt":  null,
                             "Note":  "streamer X"
-                          }
+                        },
+                 "JILARI":  {
+                                "Key":  "tk_f63dee26161c4a97af6d7ebae5998d45",
+                                "Plan":  "lifetime",
+                                "Active":  true,
+                                "ExpiresAt":  null,
+                                "TikTokUser":  "jilaritiktok"
+                            }
              }
 }
