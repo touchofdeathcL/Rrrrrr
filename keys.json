@@ -13,20 +13,6 @@
                             "Active":  true,
                             "ExpiresAt":  null,
                             "Note":  "streamer X"
-                        },
-                 "decki":  {
-                               "Plan":  "lifetime",
-                               "Key":  "tk_6433b8d9d3154e219c91b7321858f0a2",
-                               "Active":  true,
-                               "ExpiresAt":  null,
-                               "TikTokUser":  "deckicraft"
-                           },
-                 "test":  {
-                              "Key":  "tk_7338c21420074344bd9bb255a156dbbe",
-                              "Plan":  "lifetime",
-                              "Active":  true,
-                              "ExpiresAt":  null,
-                              "TikTokUser":  "jotaa.zip"
                           }
              }
 }
