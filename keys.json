@@ -14,13 +14,6 @@
                             "ExpiresAt":  null,
                             "Note":  "key de prueba inicial"
                         },
-                 "test001":  {
-                                 "Key":  "tk_c87b6ec912a54f54a8625f3c5cb49f9c",
-                                 "Plan":  "lifetime",
-                                 "Active":  true,
-                                 "ExpiresAt":  null,
-                                 "TikTokUser":  "kamy.gamer"
-                             },
                  "REYES":  {
                                "Plan":  "lifetime",
                                "Key":  "tk_03452ca429f4455c9fba8b89c5c3d475",
